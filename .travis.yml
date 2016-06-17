@@ -7,8 +7,5 @@ php:
     - hhvm
     - nightly
 
-before_script:
-    - phpenv config-rm xdebug.ini
-
 install:
     - composer update
