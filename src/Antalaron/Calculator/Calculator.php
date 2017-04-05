@@ -2,6 +2,11 @@
 
 namespace Antalaron\Calculator;
 
+/**
+ * Calulator.
+ *
+ * @author Antal Áron <antalaron@antalaron.hu>
+ */
 class Calculator
 {
     public function add($x, $y)
